@@ -26,23 +26,22 @@ This project uses:
 
 #### Steps to Set Up
 Clone the Repository:
-bash
-Kopioi koodi
-git clone [https://github.com/eetuam1/StoreSimulator.git]
-cd StoreSimulator
+<p> - bash</p>
+<p> - git clone [https://github.com/eetuam1/StoreSimulator.git]</p>
+<p> - cd StoreSimulator</p>
 
 #### Install Dependencies: Use Maven to download and install all required dependencies:
-bash
-Kopioi koodi
-mvn clean install
+<p> - bash</p>
+<p> - mvn clean install</p>
 
 #### Run the Application: Start the application with Maven:
-bash
-Kopioi koodi
-mvn javafx:
+<p> - bash</p>
+<p> - mvn javafx:</p>
 
 #### The application will open in a JavaFX window.
 
 ### Future Development
 <p> - Enhanced Features: Plans to add more features, such as advanced analytics and reporting tools.</p>
 <p> - User Interface Improvements: Continuous updates to enhance user experience and interface design.</p>
+
+### Project was made by Anni Kannisto, Eetu Mäntylä, Jukka Savela and Birgitta Öberg
