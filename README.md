@@ -28,7 +28,7 @@ This project uses:
 Clone the Repository:
 bash
 Kopioi koodi
-git clone https://github.com/yourusername/StoreSimulator.git
+git clone [https://github.com/eetuam1/StoreSimulator.git]
 cd StoreSimulator
 
 #### Install Dependencies: Use Maven to download and install all required dependencies:
